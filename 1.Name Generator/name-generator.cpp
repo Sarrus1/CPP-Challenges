@@ -1,3 +1,8 @@
+/*
+Challenge: Create a name generator
+*/
+
+
 #include <iostream>
 #include <string>
 
