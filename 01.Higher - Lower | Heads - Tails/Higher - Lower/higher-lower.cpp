@@ -1,5 +1,5 @@
 /*
-Challenge 2: Higher/Lower game
+Challenge 01: Higher/Lower game
 */
 
 #include <iostream>

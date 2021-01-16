@@ -1,5 +1,5 @@
 /*
-Challenge 2: Heads or Tails game
+Challenge 01: Heads or Tails game
 */
 
 #include <iostream>

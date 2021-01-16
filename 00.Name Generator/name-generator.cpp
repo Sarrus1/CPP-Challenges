@@ -1,5 +1,5 @@
 /*
-Challenge 1: Create a name generator
+Challenge 00: Create a name generator
 */
 
 

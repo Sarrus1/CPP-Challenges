@@ -1,5 +1,5 @@
 /*
-Challenge 3: Temperature converter
+Challenge 02: Temperature converter
 */
 
 #include <iostream>
