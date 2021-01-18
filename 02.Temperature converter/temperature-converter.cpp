@@ -1,5 +1,8 @@
 /*
 Challenge 02: Temperature converter
+#######################
+Description:
+Convert between the 3 main temperatures units
 */
 
 #include <iostream>

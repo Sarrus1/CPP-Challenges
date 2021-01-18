@@ -1,5 +1,8 @@
 /*
 Challenge 01: Heads or Tails game
+#######################
+Description:
+Guess heads or tails
 */
 
 #include <iostream>

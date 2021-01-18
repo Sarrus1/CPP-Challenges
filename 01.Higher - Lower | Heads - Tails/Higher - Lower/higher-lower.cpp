@@ -1,5 +1,8 @@
 /*
 Challenge 01: Higher/Lower game
+#######################
+Description:
+A program that allows you to play Higher or Lower against the computer.
 */
 
 #include <iostream>

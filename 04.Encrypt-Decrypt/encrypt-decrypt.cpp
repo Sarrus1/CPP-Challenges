@@ -1,5 +1,8 @@
 /*
 Challenge 04: Encrypt-Decrypt
+#######################
+Description:
+Create a program that can encrypt and then decrypt an encoded string.
 */
 
 #include <iostream>

@@ -1,5 +1,8 @@
 /*
 Challenge 00: Create a name generator
+#######################
+Description:
+Create a fake name and surname generator.
 */
 
 
